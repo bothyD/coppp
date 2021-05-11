@@ -1,1 +1,2 @@
-# coppp
+# KeyboardNinja. Клавиатурный тренажер.
+

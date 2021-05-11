@@ -1,0 +1,6 @@
+#ifndef MENU_2_H_
+#define MENU_2_H_
+//...........
+void menu1(RenderWindow &window);
+//...........
+#endif
